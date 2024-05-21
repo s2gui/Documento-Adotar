@@ -4,7 +4,7 @@
 
 ### Introdução
 * **Tema:**
-* Nosso tema se trata sobre **Adoção de animais**, para Facilitar o processo de adoção de animais como por exemplo em pet shops, desaparecimentos, entre outros.
+Nosso tema se trata sobre **Adoção de animais**, para Facilitar o processo de adoção de animais como por exemplo em pet shops, desaparecimentos, entre outros.
   
 ### Funcionalidades
 * **Lista de Funcionalidades:**
