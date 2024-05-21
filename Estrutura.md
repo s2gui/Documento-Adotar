@@ -17,7 +17,7 @@
 * Banco de Dados: **SQL**
 
 ### Modelagem do Banco de Dados
-Teremos as seguintes **tabelas** 
+Ira ser feito em **tabelas** 
 * Animais para Doação (espécie, idade, localização, etc.)
 * Animais Perdidos (espécie, localização, etc.)
 * Adotantes (nome, contato, preferências de adoção, etc.)
