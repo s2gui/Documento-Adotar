@@ -24,3 +24,6 @@ Ira ser feito em **tabelas**
 
 ### Plano de Ação
 Faremos o **JavaScript** primeiro para as funcionalidades, em seguida, desenvolveremos o **front-end**.
+
+### Conclusão
+Nosso trabalho é de grande importância para os animais que estão em abrigos. Esperamos encontrar lares para os animais e promover o reencontro com seus familiares. 
