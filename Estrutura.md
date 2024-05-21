@@ -3,7 +3,7 @@
 **Turma:** TDS23-T1
 
 ### Introdução
-**Tema:** Nosso tema se trata sobre **Adoção de animais**, para facilitar o processo de adoção de animais como por exemplo em pet shops, desaparecimentos, entre outros.
+**Tema:** Nosso tema se trata sobre **Adoção de animais**, será um **APP** para facilitar o processo de adoção de animais como por exemplo em pet shops, desaparecimentos, entre outros.
   
 ### Funcionalidades
 * Cadastro de animais disponíveis para adoção.
@@ -29,4 +29,4 @@ Ira ser feito em **tabelas**
 Faremos o **JavaScript** primeiro para as funcionalidades, em seguida, desenvolveremos o **front-end**.
 
 ### Conclusão
-Nosso trabalho é de grande importância para os animais que estão em abrigos. Esperamos encontrar lares para os animais e promover o reencontro com seus familiares. 
+Nosso trabalho será um **APP** de grande importância para os animais que estão em abrigos. Esperamos encontrar lares para os animais e promover o reencontro com seus familiares. 
