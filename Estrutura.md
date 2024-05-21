@@ -3,7 +3,7 @@
 **Turma:** TDS23-T1
 
 ### Introdução
-* **Tema:**  Nosso tema se trata sobre **Adoção de animais**, para Facilitar o processo de adoção de animais como por exemplo em pet shops, acontecimentos de desaparecimentos, entre outros.
+* **Tema:**  Nosso tema se trata sobre **Adoção de animais**, para Facilitar o processo de adoção de animais como por exemplo em pet shops, desaparecimentos, entre outros.
   
 ### Funcionalidades
 * **Lista de Funcionalidades:**
