@@ -18,7 +18,6 @@
 
 ### Modelagem do Banco de Dados
 Ira ser feito em **tabelas** 
-*  (, , , etc.)
 
 |Animais para Doação| Animais Perdidos| Adotantes              |
 |-------------------|-----------------|------------------------|
