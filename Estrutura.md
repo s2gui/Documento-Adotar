@@ -22,8 +22,8 @@ Ira ser feito em **tabelas**
 |Animais para Doação| Animais Perdidos| Adotantes              |
 |-------------------|-----------------|------------------------|
 | Espécie           | Espécie         | Contato                |
-| Idade             | Localização     | Preferências de Adoção |
-| Localização       |                 |                        |
+| Localização       | Localização     | Preferências de Adoção |
+| Idade             |                 |                        |
 
 ### Plano de Ação
 Faremos o **JavaScript** primeiro para as funcionalidades, em seguida, desenvolveremos o **front-end**.
