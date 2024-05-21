@@ -21,3 +21,6 @@ Ira ser feito em **tabelas**
 * Animais para Doação (espécie, idade, localização, etc.)
 * Animais Perdidos (espécie, localização, etc.)
 * Adotantes (nome, contato, preferências de adoção, etc.)
+
+### Plano de Ação
+Faremos o JavaScript primeiro para as funcionalidades, em seguida, desenvolveremos o front-end.
