@@ -23,4 +23,4 @@ Ira ser feito em **tabelas**
 * Adotantes (nome, contato, preferências de adoção, etc.)
 
 ### Plano de Ação
-Faremos o JavaScript primeiro para as funcionalidades, em seguida, desenvolveremos o front-end.
+Faremos o **JavaScript** primeiro para as funcionalidades, em seguida, desenvolveremos o **front-end**.
