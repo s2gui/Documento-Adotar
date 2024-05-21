@@ -13,6 +13,6 @@
         ** Acompanhamento do processo de adoção
 
 ### Tecnologias
-    - **Linguagem de Programação:** JavaScript
-    - **Frameworks e Bibliotecas:**
-    - **Banco de Dados:** MongoDB, para armazenar informações dos animais e adotantes
+*Linguagem de Programação:** JavaScript
+*Frameworks e Bibliotecas:**
+*Banco de Dados:** MongoDB, para armazenar informações dos animais e adotantes
