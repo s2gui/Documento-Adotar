@@ -41,7 +41,25 @@ Ira ser feito em **tabelas**
 | Idade             |                 |                        |
 
 ### Plano de Ação
-Faremos o **JavaScript** primeiro para as funcionalidades, em seguida, desenvolveremos o **front-end**.
+**Desenvolvimento das Funcionalidades em JavaScript:**
+Iniciar o desenvolvimento das funcionalidades do site utilizando JavaScript para garantir a interatividade e dinamismo necessários.
+Implementar as operações relacionadas à adoção de animais, busca por animais desaparecidos e sistema de doações.
+
+**Desenvolvimento do Front-end:**
+Após a conclusão das funcionalidades em JavaScript, concentrar esforços no desenvolvimento do front-end para garantir uma interface intuitiva e amigável aos usuários.
+Utilizar HTML e CSS para criar layouts atrativos e responsivos que facilitem a navegação e a interação dos usuários com o site.
+
+**Criação das Tabelas e Configuração do Servidor:**
+Proceder com a criação das tabelas no banco de dados, conforme definido na modelagem, para armazenar informações sobre animais disponíveis para adoção, animais perdidos e adotantes.
+Configurar o servidor para garantir a disponibilidade e segurança do site durante o seu funcionamento.
+
+**Coleta e Integração de Dados sobre Animais e Casas de Adoção:**
+Realizar a coleta de dados sobre animais disponíveis para adoção e animais perdidos em parceria com abrigos e canis locais.
+Integrar esses dados ao sistema para garantir que o site esteja sempre atualizado e ofereça informações precisas aos usuários.
+
+**Implementação do Sistema de Doação via PIX:**
+Desenvolver e integrar um sistema de doação via PIX para facilitar a contribuição dos usuários em dinheiro.
+Garantir a segurança e transparência no processo de doação, fornecendo informações claras sobre como os fundos serão utilizados para apoiar abrigos e canis locais.
 
 ### Conclusão
 Em resumo, nosso projeto não apenas simplificará o processo de adoção de animais, mas também promoverá uma cultura de responsabilidade e respeito pelos animais em nossa comunidade. Através desta plataforma online, aspiramos a transformar vidas, oferecendo um lar amoroso e seguro para animais desabrigados e perdidos, enquanto conscientizamos a população sobre a importância do bem-estar animal.
