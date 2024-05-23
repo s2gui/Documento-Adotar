@@ -3,8 +3,20 @@
 **Turma:** TDS23-T1
 
 ### Introdução
-**Tema:** Nosso tema se trata sobre **Adoção de animais**, será um **APP** para facilitar o processo de adoção de animais como por exemplo em pet shops, desaparecimentos, entre outros.
-  
+**Tema:** Nosso projeto será voltado em um **SITE** especializado na **Adoção responsável de animais**. Este site servira para simplificar e facilitar esse processo, desde a disponibilização de animais para adoção até o apoio na busca por animais desaparecidos e na arrecadação de doações para abrigos e canis locais.
+
+**Adoção Responsável:**
+Nosso objetivo principal é promover a adoção responsável, garantindo que os animais encontrem lares amorosos e adequados. Para isso, cada seção do nosso site será cuidadosamente desenvolvida e funcional.
+
+**Seção de Adoção:**
+Os usuários encontrarão informações detalhadas sobre animais disponíveis para adoção, incluindo fotos e descrições abrangentes, como raça, cor, idade e sexo. Esta seção será projetada para facilitar a conexão entre animais em busca de um lar e pessoas dispostas a adotar.
+
+**Animais Desaparecidos:**
+Os proprietários preocupados com seus animais perdidos poderão cadastrar informações relevantes, como características físicas, local e data do desaparecimento. Além disso, os usuários terão acesso a uma lista de animais encontrados, facilitando a reunião de animais perdidos com seus proprietários.
+
+**Doações:**
+Uma seção dedicada às doações será fundamental para apoiar a manutenção e operação dos abrigos e canis locais. Aceitaremos doações em dinheiro, bem como itens essenciais para o cuidado dos animais, como alimentos, produtos de higiene e cobertores.
+
 ### Funcionalidades
 * Cadastro de animais disponíveis para adoção.
 * Pesquisa de animais por espécie, idade, localização, etc.
