@@ -25,6 +25,8 @@ Uma seção dedicada às doações será fundamental para apoiar a manutenção 
 
 ### Tecnologias
 * Linguagem de Programação: **JavaScript**
+* Linguagem de estilo: **CSS**
+* Linguagem de marcação: **HTML**
 * Frameworks e Bibliotecas: **Não decidido**
 * Banco de Dados: **SQL**
 
@@ -41,4 +43,4 @@ Ira ser feito em **tabelas**
 Faremos o **JavaScript** primeiro para as funcionalidades, em seguida, desenvolveremos o **front-end**.
 
 ### Conclusão
-Nosso trabalho será um **APP** de grande importância para os animais que estão em abrigos. Esperamos encontrar lares para os animais e promover o reencontro com seus familiares. 
+Em resumo, nosso projeto não apenas simplificará o processo de adoção de animais, mas também promoverá uma cultura de responsabilidade e respeito pelos animais em nossa comunidade. Através desta plataforma online, aspiramos a transformar vidas, oferecendo um lar amoroso e seguro para animais desabrigados e perdidos, enquanto conscientizamos a população sobre a importância do bem-estar animal.
